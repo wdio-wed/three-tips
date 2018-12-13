@@ -1,6 +1,6 @@
 # Three WebdriverIO Tips
 
-[Link to Videos]()
+[Link to Videos](https://www.youtube.com/watch?v=FiAmVdMCY2k)
 
 ## Usage
 
